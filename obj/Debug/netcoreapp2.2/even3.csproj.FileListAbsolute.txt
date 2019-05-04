@@ -1,0 +1,11 @@
+/home/jefferson/Documentos/even3/obj/Debug/netcoreapp2.2/even3.csprojAssemblyReference.cache
+/home/jefferson/Documentos/even3/obj/Debug/netcoreapp2.2/even3.csproj.CoreCompileInputs.cache
+/home/jefferson/Documentos/even3/obj/Debug/netcoreapp2.2/even3.AssemblyInfoInputs.cache
+/home/jefferson/Documentos/even3/obj/Debug/netcoreapp2.2/even3.AssemblyInfo.cs
+/home/jefferson/Documentos/even3/bin/Debug/netcoreapp2.2/even3.deps.json
+/home/jefferson/Documentos/even3/bin/Debug/netcoreapp2.2/even3.runtimeconfig.json
+/home/jefferson/Documentos/even3/bin/Debug/netcoreapp2.2/even3.runtimeconfig.dev.json
+/home/jefferson/Documentos/even3/bin/Debug/netcoreapp2.2/even3.dll
+/home/jefferson/Documentos/even3/bin/Debug/netcoreapp2.2/even3.pdb
+/home/jefferson/Documentos/even3/obj/Debug/netcoreapp2.2/even3.dll
+/home/jefferson/Documentos/even3/obj/Debug/netcoreapp2.2/even3.pdb
